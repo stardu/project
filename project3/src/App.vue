@@ -16,8 +16,8 @@
                 <router-link tag="li" :to="{name: 'Me'}" @click="navBtn(index)">
                     我
                 </router-link> -->
-                <li v-for="(item,index) in navItem" :key="item.id" @click="navBtn(index)" :class="{active:index===sum}">
-                    {{item}}
+                <li v-for="(item,index) in imgsrc" :key="item.id" @click="navBtn(index)" :class="{active:index===sum}">
+                    <img :src="item">
                 </li>
             </ul>
         </footer>
@@ -31,7 +31,9 @@ export default {
         return {
             sum:0,
             title: '',
-            navItem:['首页','分类','购物车','我']
+            navItem:['首页','分类','购物车','我'],
+            imgsrc:['/static/router_button/home1.png','/static/router_button/classify.png','/static/router_button/shop.png','/static/router_button/me.png']
+            // imgsrc1:['/static/router_button/home1.png','/static/router_button/classify1.png','/static/router_button/shop1.png','/static/router_button/me1.png']
         }
     },
     created() {
@@ -43,12 +45,26 @@ export default {
             this.$router.push({name: url});
             this.title = this.navItem[index];
             this.sum = index;
+            //恢复所有图标颜色
+            for(let x in this.imgsrc){
+                if(this.imgsrc[x].indexOf('1')!=-1){
+                    var arr_1 = this.imgsrc[x].split('1');
+                    var str_1 = arr_1[0]+arr_1[1];
+                    this.imgsrc[x] = str_1;
+                }
+            }
+            //改变当前点击的图标的颜色
+            var str_2 = this.imgsrc[index];
+            var arr_2 = str_2.split('.');
+            this.imgsrc[index] = arr_2[0]+'1.'+arr_2[1];
         }
     }
 };
 </script>
 
 <style lang="scss">
+
+
 *{
     box-sizing: border-box;
 }
@@ -61,22 +77,25 @@ html,body {
     text-align: center;
     color: #2c3e50;
 }
+$color:rgb(238, 238, 238);
 #app{
     height:100%;
 }
 .container{
-    height:calc(100% - 110px);
+    height:calc(100% - 111px);
     overflow-x: hidden;
     overflow-y: auto;
 }
 header{
     height:50px;
     line-height:50px;
-    background-color: #ccc;
+    border-bottom:1px solid #ccc;
+    background-color: $color;
 }
 footer{
     height:60px;
-    background-color: #ccc;
+    border-top:1px solid #ccc;
+    background-color: $color;
 }
 footer ul{
     height:inherit;
@@ -86,12 +105,13 @@ footer ul{
     display: flex;
     li{
         line-height: 60px;
+        padding:10px 0;
         width:25%;
         display: list-item;
         cursor: pointer;
         &:hover {
             color: #2299ff;
-            background-color: #eee;
+            background-color: #ddd;
         }
         &.active {
             background-color: #2299ff;

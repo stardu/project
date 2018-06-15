@@ -6,10 +6,10 @@
 
 <script>
 export default {
-    name: "TestList",
+    name: "Shoppingcart",
     data() {
         return {
-            msg: "This is me!"
+            msg: "This is About!"
         };
     }
 };

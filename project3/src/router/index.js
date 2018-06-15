@@ -1,9 +1,9 @@
 import Vue from "vue";
 import Router from "vue-router";
-import HelloWorld from "@/page/HelloWorld";
-import TestList from "@/page/TestList";
-import AboutUs from "@/page/AboutUs";
-import Me from "@/page/Me";
+import Classify from "@/page/classify/Classify";
+import Home from "@/page/home/Home";
+import Shoppingcart from "@/page/shoppingcart/Shoppingcart";
+import Me from "@/page/me/Me";
 
 Vue.use(Router);
 
@@ -14,18 +14,18 @@ export default new Router({
     routes: [
         {
             path: "/",
-            name: "HelloWorld",
-            component: HelloWorld
+            name: "Home",
+            component: Home
         },
         {
-            path: "/testlist",
-            name: "TestList",
-            component: TestList
+            path: "/classify",
+            name: "Classify",
+            component: Classify
         },
         {
-            path: "/about",
-            name: "AboutUs",
-            component: AboutUs
+            path: "/shoppingcart",
+            name: "Shoppingcart",
+            component: Shoppingcart
         },
         {
             path: "/me",

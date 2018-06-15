@@ -6,10 +6,10 @@
 
 <script>
 export default {
-    name: "AboutUs",
+    name: "Me",
     data() {
         return {
-            msg: "This is About!"
+            msg: "This is me!"
         };
     }
 };

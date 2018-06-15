@@ -6,7 +6,7 @@
 
 <script>
 export default {
-    name: "TestList",
+    name: "Classify",
     data() {
         return {
             msg: "This is test!"

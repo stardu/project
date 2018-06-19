@@ -4,6 +4,7 @@ import Classify from "@/page/classify/Classify";
 import Home from "@/page/home/Home";
 import Shoppingcart from "@/page/shoppingcart/Shoppingcart";
 import Me from "@/page/me/Me";
+import Detail from '@/page/detail/Detail'
 
 Vue.use(Router);
 
@@ -31,6 +32,11 @@ export default new Router({
             path: "/me",
             name: "Me",
             component: Me
+        },
+        {
+            path: '/detail',
+            name: 'Detail',
+            component: Detail
         }
     ],
     //处理路由选中时的class

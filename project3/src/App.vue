@@ -4,18 +4,6 @@
         <router-view/>
         <footer>
             <ul>
-                <!-- <router-link tag="li" :to="{name: 'HelloWorld'}" @click="navBtn(index)" exact>
-                    首页
-                </router-link>
-                <router-link tag="li" :to="{name: 'TestList'}" @click="navBtn(index)">
-                    分类
-                </router-link>
-                <router-link tag="li" :to="{name: 'AboutUs'}" @click="navBtn(index)">
-                    购物车
-                </router-link>
-                <router-link tag="li" :to="{name: 'Me'}" @click="navBtn(index)">
-                    我
-                </router-link> -->
                 <li v-for="(item,index) in imgsrc" :key="item.id" @click="navBtn(index)" :class="{active:index===sum}">
                     <img :src="item">
                 </li>
@@ -33,7 +21,6 @@ export default {
             title: '',
             navItem:['首页','分类','购物车','我'],
             imgsrc:['/static/router_button/home1.png','/static/router_button/classify.png','/static/router_button/shop.png','/static/router_button/me.png']
-            // imgsrc1:['/static/router_button/home1.png','/static/router_button/classify1.png','/static/router_button/shop1.png','/static/router_button/me1.png']
         }
     },
     created() {
@@ -77,7 +64,7 @@ html,body {
     text-align: center;
     color: #2c3e50;
 }
-$color:rgb(238, 238, 238);
+$color:#ddd;
 #app{
     height:100%;
 }
@@ -85,6 +72,7 @@ $color:rgb(238, 238, 238);
     height:calc(100% - 111px);
     overflow-x: hidden;
     overflow-y: auto;
+    background-color:#eee
 }
 header{
     height:50px;

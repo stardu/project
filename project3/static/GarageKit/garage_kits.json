@@ -1,0 +1,427 @@
+[
+    {
+        "titil" : "复仇者联盟 无限战争 萨诺斯 灭霸",
+        "name" :  "灭霸",
+        "imgsrc": [
+            {"imgsrc1" : "img/mieba01.jpg"},
+            {"imgsrc2" : "img/mieba02.jpg"},
+            {"imgsrc3" : "img/mieba03.jpg"},
+            {"imgsrc4" : "img/mieba04.jpg"},
+            {"imgsrc5" : "img/mieba05.jpg"}
+        ],
+        "price" : 12000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+        "product_msg" : [
+            {"product_code" : "MMS479"},
+            {"product_height" : "约41.5厘米高"},
+            {"special_skill" : "新开发的可互换头部造型捕捉THANO生气的表情，两种类型的LED点亮INFINITY护手，全部六种INFINITY石头和风化效果"}
+        ],
+        "introduce" : "这款收藏品的特色是两款新开发并精心制作的可互换头部造型，灵感来自于Thano严肃而生气的表情。它还配备了两种类型的LED金属色金色无限护手，全部六种无限式石头和风化效果，另外还有一种可互换的非铰接式左臂，具有极佳的肌肉细节，适用于Thanos标志性和恐吓紧握拳头姿势，新雕刻精心制作的装甲服装，以及特别设计的人物底座和背景。这位惊人的详细收藏的巨大奇迹电影宇宙超级恶棍的人物，当你将他添加到你令人难以置信的漫威集合一定会微笑着！"
+    },
+    {
+        "titil" : "复仇者联盟 无限战争 Thor 雷神",
+        "name" :  "雷神",
+         "imgsrc": [
+            {"imgsrc1" : "img/leishen01.jpg"},
+            {"imgsrc2" : "img/leishen02.jpg"},
+            {"imgsrc3" : "img/leishen03.jpg"},
+            {"imgsrc4" : "img/leishen04.jpg"},
+            {"imgsrc5" : "img/leishen05.jpg"}
+        ],
+        "price" : 11000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "MMS474"},
+                {"product_height" : "大约32厘米高"},
+                {"special_skill" : "在眼睛上使用特殊的夜光反射效果，以使用他的闪电电源来模仿雷神，带有渐变蓝色闪电效果配件的身体护甲上的LED发光功能"}
+            ],
+        "introduce" : "基于克里斯赫姆斯沃斯在电影中出现的令人惊讶的相似性而精心制作的托尔收藏的身影，特征是新开发的头部造型，在眼睛上特别应用了夜光反射效果，使用雷电强化了托尔，这是一种新开发的肌肉体，可互换手臂，错综复杂的防弹衣，配有LED照明的圆盘和闪电效果配件，可拆卸的红色披风，Thor的新武器Stormbreaker的细节娱乐以及特别设计的带电影标志的图形支架。雷神收藏的人物是一部了不起的杰作，绝对是所有漫威粉丝的宝藏。在太晚之前预购吧"
+    },
+    {
+        "titil" : "复仇者联盟 无限战争 Iron Man 钢铁侠",
+        "name" :  "钢铁侠",
+         "imgsrc": [
+            {"imgsrc1" : "img/gangtiexia01.jpg"},
+            {"imgsrc2" : "img/gangtiexia02.jpg"},
+            {"imgsrc3" : "img/gangtiexia03.jpg"},
+            {"imgsrc4" : "img/gangtiexia04.jpg"},
+            {"imgsrc5" : "img/gangtiexia05.jpg"}
+        ],
+        "price" : 15000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "MMS473D23"},
+                {"product_height" : "大约32厘米高"},
+                {"special_skill" : "一个可互换的LED点亮纳米REPULSOR CANNONED右臂，一个可互换的手炮，一对可连接的NANO BOOSTERS"}
+            ],
+        "introduce" : "凭借出色的电影精确度，1/6尺度的数字是根据小罗伯特·唐尼精心制作的，作为托尼斯塔克/复仇者联盟钢铁侠：无限战争，头戴金属红色，金色和银色彩色装甲油画以及可换头盔新造的头部造型与醒目的相似，LED照明功能分散在整个装甲中，各种钢铁侠的最新武器包括可互换的LED点亮纳米解析器加农炮，左手手持加农炮，背面有一对可连接的纳米加速器，并特别设计的图形与电影标志站在一起。"
+    },
+    {
+        "titil" : "复仇者联盟 无限战争 Doctor Strange 奇异博士",
+        "name" :  "奇异博士",
+         "imgsrc": [
+            {"imgsrc1" : "img/qiyiboshi01.jpg"},
+            {"imgsrc2" : "img/qiyiboshi02.jpg"},
+            {"imgsrc3" : "img/qiyiboshi03.jpg"},
+            {"imgsrc4" : "img/qiyiboshi04.jpg"},
+            {"imgsrc5" : "img/qiyiboshi05.jpg"}
+        ],
+        "price" : 12900.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "MMS484"},
+                {"product_height" : "约31厘米高"},
+                {"special_skill" : "精巧编织的红色斗篷（悬浮斗篷）装饰有复杂的刺绣和特殊的磁性夹式设计，多项神秘艺术效果"}
+            ],
+        "introduce" : "基于克里斯赫姆斯沃斯在电影中出现的令人惊讶的相似性而精心制作的托尔收藏的身影，特征是新开发的头部造型，在眼睛上特别应用了夜光反射效果，使用雷电强化了托尔，这是一种新开发的肌肉体，可互换手臂，错综复杂的防弹衣，配有LED照明的圆盘和闪电效果配件，可拆卸的红色披风，Thor的新 武器Stormbreaker的细节娱乐以及特别设计的带电影标志的图形支架。雷神收藏的人物是一部了不起的杰作，绝对是所有漫威粉丝的宝藏。在太晚之前预购吧"
+    },
+    {
+        "titil" : "复仇者联盟 无限战争 Captain America 美国队长",
+        "name" :  "美国队长",
+         "imgsrc": [
+            {"imgsrc1" : "img/captain01.jpg"},
+            {"imgsrc2" : "img/captain02.jpg"},
+            {"imgsrc3" : "img/captain03.jpg"},
+            {"imgsrc4" : "img/captain04.jpg"},
+            {"imgsrc5" : "img/captain05.jpg"}
+        ],
+        "price" : 13000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "MMS481"},
+                {"product_height" : "大约31厘米高"},
+                {"special_skill" : "电影发布后将展示的独特神秘武器，带有可互换岩石地面显卡的OUTRIDER西洋镜"}
+            ],
+        "introduce" : "凭借精湛的工艺，真正的电影1/6规模的美国队长是基于克里斯埃文斯美国队长/史蒂夫罗杰斯出现令人难以置信的相像精心制作。具有现实感的收藏特色是新开发的头部造型，细节的头发和胡须雕塑，全新开发的机身，描绘美国队长肌肉发达的身体，一款醒目的新量身定制的美国队长套装，战斗损坏胸部，露出底部刻度图案，来自技术先进国家Wakanda的一对铰接盾牌，一个特别设计的以电影为主题的人物展台，以及在电影发行后揭晓的神秘武器。"
+    },
+    {
+        "titil" : "复仇者联盟 无限战争 Deadpool 死侍",
+        "name" :  "死侍",
+         "imgsrc": [
+            {"imgsrc1" : "img/sishi01.jpg"},
+            {"imgsrc2" : "img/sishi02.jpg"},
+            {"imgsrc3" : "img/sishi03.jpg"},
+            {"imgsrc4" : "img/sishi04.jpg"},
+            {"imgsrc5" : "img/sishi05.jpg"}
+        ],
+        "price" : 11000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "MMS490"},
+                {"product_height" : "大约31厘米高"},
+                {"special_skill" : "带有五副可互换眼镜的死侍头，黑色和黄色X战警训练服，一双可互换的黑色高跟鞋"}
+            ],
+        "introduce" : "基于克里斯赫姆斯沃斯在电影中出现的令人惊讶的相似性而精心制作的托尔收藏的身影，特征是新开发的头部造型，在眼睛上特别应用了夜光反射效果，使用雷电强化了托尔，这是一种新开发的肌肉体，可互换手臂，错综复杂的防弹衣，配有LED照明的圆盘和闪电效果配件，可拆卸的红色披风，Thor的新武器Stormbreaker的细节娱乐以及特别设计的带电影标志的图形支架。雷神收藏的人物是一部了不起的杰作，绝对是所有漫威粉丝的宝藏。在太晚之前预购吧"
+    },
+    {
+        "titil" : "复仇者联盟 无限战争 Hulk 绿巨人",
+        "name" :  "绿巨人",
+         "imgsrc": [
+            {"imgsrc1" : "img/lvjuren01.jpg"},
+            {"imgsrc2" : "img/lvjuren02.jpg"},
+            {"imgsrc3" : "img/lvjuren03.jpg"},
+            {"imgsrc4" : "img/lvjuren04.jpg"},
+            {"imgsrc5" : "img/lvjuren05.jpg"}
+        ],
+        "price" : 11000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "MMS287"},
+                {"product_height" : "大约42厘米高"},
+                {"special_skill" : "两个新开发的愤怒和尖叫的绿巨人头雕塑与滚动眼球，特殊绘肌肉发达的身体和新雕刻可互换的“绿巨人粉碎”姿势上半身。"}
+            ],
+        "introduce" : "为了让这款史诗巨片备受喜爱，Hot Toys很高兴今天正式亮相1/6比例Hulk豪华珍藏系列！电影精确的收藏人物是基于Marvel的复仇者联盟：奥创时代的绿巨人的形象特别制作的。这套豪华套装特别展出了两款新开发的愤怒尖叫的绿巨人头部造型，包括滚动眼球，特别绘制的肌肉体和新雕刻的可互换绿巨人粉碎”造型上身。"
+    },
+    {
+        "titil" : "复仇者联盟 无限战争 Loki 洛基",
+        "name" :  "洛基",
+         "imgsrc": [
+            {"imgsrc1" : "img/luoji01.jpg"},
+            {"imgsrc2" : "img/luoji02.jpg"},
+            {"imgsrc3" : "img/luoji03.jpg"},
+            {"imgsrc4" : "img/luoji04.jpg"},
+            {"imgsrc5" : "img/luoji05.jpg"}
+        ],
+        "price" : 12200.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "MMS472"},
+                {"product_height" : "大约31厘米高"},
+                {"special_skill" : "两把匕首，一枚LOKI的金盔（可佩戴到头部造型），一个带底座的TESSERACT"}
+            ],
+        "introduce" : "恶魔之神 - 洛基正在与他的兄弟雷神托尔联合起来，为了拯救他们的家园和阿斯加德人民而与危险强大的赫拉作斗争。基于Tom Hiddleston作为Loki在电影中的出现而精心制作，收藏的人物展示了一种新开发的头像造型，具有惊人的相似性，全新的皮革状服装与绿色披肩，Loki的标志性头盔，一系列武器和配饰，包括两把高度详细的匕首，Tesseract，Surtur的头骨，发射效果，以及一个特别设计的身材。"
+    },
+    {
+        "titil" : "黑客帝国 Neo 尼奥",
+        "name" :  "尼奥",
+         "imgsrc": [
+            {"imgsrc1" : "img/neo01.jpg"},
+            {"imgsrc2" : "img/neo02.jpg"},
+            {"imgsrc3" : "img/neo03.jpg"},
+            {"imgsrc4" : "img/neo04.jpg"},
+            {"imgsrc5" : "img/neo05.jpg"}
+        ],
+        "price" : 11000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "MMS466"},
+                {"product_height" : "大约32厘米高"},
+                {"special_skill" : "新开发的头部雕塑，具有精确的电影表情和细致的皮肤纹理，三对冲锋枪，一个黑色行李袋，一对标志性太阳镜"}
+            ],
+        "introduce" : "由着名演员基努里维斯描绘并被评为有史以来最伟大的电影人物之一，Neo被预言为“The One”，他可以结束人与机器之间的战争，释放人性。随着全球粉丝的高度期待，Hot Toys非常激动地向获奖的科幻电影The Matrix呈现最新1/6比例的Neo收藏品。凭借精心细致的工艺，非常时尚的1/6比例尺身材拥有一款新开发的头部造型，突出了Keanu Reeves在电影中的惊艳形象Neo，标志性的合身装备和长外套，精致剪裁，“大量枪支”包括突击步枪，各种冲锋枪和手枪，标志性太阳镜以及特别设计的动态身姿！"
+    },
+    {
+        "titil" : "黑暗骑士 Batman 蝙蝠侠",
+        "name" :  "蝙蝠侠",
+         "imgsrc": [
+            {"imgsrc1" : "img/bianfuxia01.jpg"},
+            {"imgsrc2" : "img/bianfuxia02.jpg"},
+            {"imgsrc3" : "img/bianfuxia03.jpg"},
+            {"imgsrc4" : "img/bianfuxia04.jpg"},
+            {"imgsrc5" : "img/bianfuxia05.jpg"}
+        ],
+        "price" : 17000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "QS009"},
+                {"product_height" : "大约47厘米高"},
+                {"special_skill" : "一个新开发的CHRISTIAN BALE的头像造型，如BRUCE WAYNE，一个新开发的CHRISTIAN BALE头像造型，如BRUCE WAYNE"}
+            ],
+        "introduce" : "蝙蝠侠开始标志着有史以来最好的超级英雄三部曲之一的开始。世界各地的球迷都喜欢蝙蝠侠的故事，他在哥谭市停止犯罪的途径，当然还有Batsuit。由世界知名电影人克里斯托弗诺兰导演，并出演粉丝最喜爱的演员克里斯蒂安贝尔，黑暗骑士三部曲继续成为蝙蝠侠世界各地球迷的永恒经典。令人难以置信的详细蝙蝠侠收藏数字约47厘米高。它具有一种新开发的头部造型，与Christian Bale惊人的相似性，如Bruce Wayne，一个备用蝙蝠侠头部，3个可互换的下脸，精心定制和非常详细的Batsuit，可拆卸的登山背带和可穿戴的巴拉克拉法帽，一个可拆卸的磁性披肩，蝙蝠侠小工具和配件，以及特别设计的蝙蝠侠开始主题图站。"
+    },
+    {
+        "titil" : "黑暗骑士 Catwoman 猫女",
+        "name" :  "猫女",
+         "imgsrc": [
+            {"imgsrc1" : "img/maonv01.jpg"},
+            {"imgsrc2" : "img/maonv02.jpg"},
+            {"imgsrc3" : "img/maonv03.jpg"},
+            {"imgsrc4" : "img/maonv04.jpg"},
+            {"imgsrc5" : "img/maonv05.jpg"}
+        ],
+        "price" : 11000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "MMS188"},
+                {"product_height" : "大约28厘米高"},
+                {"special_skill" : "电影精确的头部雕塑，头发植入，高度详细的服装和配件"}
+            ],
+        "introduce" : "塞琳娜是个身手敏捷的飞贼，一个骗子。尽管布鲁斯·韦恩退隐江湖多年，哥谭市最具影响力的各界名流还是在被命名为哈维·丹特之日的那天，齐聚韦恩庄园举行慈善救助晚会。这种机遇，对于飞贼猫女塞丽娜·凯尔来说是天赐良机，她伺机行动，布下迷阵。猫女与布鲁斯·韦恩的邂逅，给后者带来了意想不到的影响。"
+    },
+    {
+        "titil" : "黑暗骑士 Joker 小丑",
+        "name" :  "小丑",
+         "imgsrc": [
+            {"imgsrc1" : "img/xiaochou01.jpg"},
+            {"imgsrc2" : "img/xiaochou02.jpg"},
+            {"imgsrc3" : "img/xiaochou03.jpg"},
+            {"imgsrc4" : "img/xiaochou04.jpg"},
+            {"imgsrc5" : "img/xiaochou05.jpg"}
+        ],
+        "price" : 20000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "DX11"},
+                {"product_height" : "大约31厘米高"},
+                {"special_skill" : "高度详细的头部雕塑，平行眼球滚动系统（PERS），特别定制的服装"}
+            ],
+        "introduce" : "Hot Toys DX Joker Collection Figure自2009年推出以来一直备受好评。鉴于粉丝的期望，Hot Toys很荣幸地推出他的高Dark Knight电影中的DX Joker 2.0系列收藏品，特别制作基于Heath Ledger作为电影中的The Joker的形象，突出了我们的韩国首席艺术家Y最新的雕刻和绘画技术制作的高度细致的头部造型。Hong和由非凡的1/6比例身影的服装艺术家加藤定制的服装，最适合他的高级身材。"
+    },
+    {
+        "titil" : "正义联盟 Superman 超人",
+        "name" :  "超人",
+         "imgsrc": [
+            {"imgsrc1" : "img/chaoren01.jpg"},
+            {"imgsrc2" : "img/chaoren02.jpg"},
+            {"imgsrc3" : "img/chaoren03.jpg"},
+            {"imgsrc4" : "img/chaoren04.jpg"},
+            {"imgsrc5" : "img/chaoren05.jpg"}
+        ],
+        "price" : 15000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "MMS465"},
+                {"product_height" : "大约31.5厘米高"},
+                {"special_skill" : "新开发的头部雕塑具有LED点亮功能（电池供电），可重现超人使用的热视觉，全新量身定制的超人西装压花图案，金属色超人标志"}
+            ],
+        "introduce" : "正义联盟去年秋天发布，继续打破全球众多票房纪录！作为蝙蝠侠与超人之间的直接延续：正义黎明，氪星之子，超人从死里复活，并与强大的超级恶棍入侵者Steppenwolf及其成群的Parademons战斗，以防止入侵地球。超人可收藏的身影以亨利卡维尔在电影中出现的惊人肖像为基础精心制作，采用新开发的LED点亮头部造型，突出了来自眼睛的超人独特的热视觉能力以及可互换的新绘头部造型，新开发的肌肉发达的身体，一个细致精细的胸部金属超人图标剪裁服装，以及一个特别设计的正义联盟主题人物立场。"
+    },
+    {
+        "titil" : "正义联盟 Batman 蝙蝠侠",
+        "name" :  "蝙蝠侠",
+         "imgsrc": [
+            {"imgsrc1" : "img/bianfuxia06.jpg"},
+            {"imgsrc2" : "img/bianfuxia07.jpg"},
+            {"imgsrc3" : "img/bianfuxia08.jpg"},
+            {"imgsrc4" : "img/bianfuxia09.jpg"},
+            {"imgsrc5" : "img/bianfuxia10.jpg"}
+        ],
+        "price" : 10000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "MMS455"},
+                {"product_height" : "大约32厘米高"},
+                {"special_skill" : "新开发的可互换蝙蝠侠蒙面头带3个可互换的眼镜片和3个可互换的脸部下部，新开发的可互换布鲁斯·韦恩头部造型"}
+            ],
+        "introduce" : "蝙蝠侠一直是DC漫画中最喜欢的角色。在超人的“死亡”事件发生后，蝙蝠侠获悉了试图结合重新激活的母亲盒子并重塑世界的超级归来。作为正义联盟的创始人发挥了至关重要的作用，他招募并激励了联盟中的所有成员基于Ben Affleck在正义联盟中出演的蝙蝠侠而精心制作，这部电影精确的收藏人物具有两个可互换的头部，其中包括一个新开发的头部造型和蒙面互换的眼睛片和下脸捕捉电影中Ben Affleck的脸部表情，新开发的强健身体，全新的Batsuit和皮革般的斗篷，以及各种小玩意和Parademon枪"
+    },
+    {
+        "titil" : "正义联盟 Aquaman 海王",
+        "name" :  "海王",
+         "imgsrc": [
+            {"imgsrc1" : "img/haiwang01.jpg"},
+            {"imgsrc2" : "img/haiwang02.jpg"},
+            {"imgsrc3" : "img/haiwang03.jpg"},
+            {"imgsrc4" : "img/haiwang04.jpg"},
+            {"imgsrc5" : "img/haiwang05.jpg"}
+        ],
+        "price" : 10000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "MMS447"},
+                {"product_height" : "大约33厘米高"},
+                {"special_skill" : "新开发的头部造型，特制的AQUAMAN西装，配以金色和铜色彩色刻度图案的装甲板，三叉戟，ATLANTEAN MOTHER BOX"}
+            ],
+        "introduce" : "Aquaman是亚特兰蒂斯王座的继承人，曾在蝙蝠侠v超人：正义黎明中短暂出场，他拥有令人难以置信的超级大国来控制所有海洋生物。在正义联盟正式亮相，Aquaman被布鲁斯·韦恩和戴安娜王子招募为前所未有的联盟中的关键成员之一，拯救地球并与新的反派进行凭借精心的工艺，Aquaman的1/6规格是基于Jason Momoa作为正义联盟的Aquaman出现而制作的，具有惊人的相似性。采用全新的头部造型，精致的长发精巧定制的金色和黑色全身装甲，三叉戟，Atlantean母亲盒以及特别设计的正义联盟主题人物表座。"
+    },
+    {
+        "titil" : "正义联盟 Wonder Woman 神奇女侠",
+        "name" : "神奇女侠",
+         "imgsrc": [
+            {"imgsrc1" : "img/shenqinvxia01.jpg"},
+            {"imgsrc2" : "img/shenqinvxia02.jpg"},
+            {"imgsrc3" : "img/shenqinvxia03.jpg"},
+            {"imgsrc4" : "img/shenqinvxia04.jpg"},
+            {"imgsrc5" : "img/shenqinvxia05.jpg"}
+        ],
+        "price" : 12000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "MMS451"},
+                {"product_height" : "大约29厘米高"},
+                {"special_skill" : "红色，蓝色和金色的神奇女侠装备，具有风化和战斗损伤效果，黑色连帽长袍，深棕色皮革横身腰带，亚马逊母亲盒"}
+            ],
+        "introduce" : "基于Gal Gadot作为神奇女侠在电影中的出现而精心制作，这款腕表采用了一种新的头部造型，具有长卷曲的深棕色真丝织物头发和神奇标志性头饰，专为Wonder Woman量身定制的专业身体，专业量身定制的护甲战斗伤害和风化效应。除了令人惊叹的服装外，这款腕表还配备了各种武器和配剑，具有风化效果的盾牌，两对神奇女侠的签名“提交手镯”，她的“真相套索”，子弹波光粼粼的效果，和一个特别设计的正义联盟主题人物站。"
+    },
+    {
+        "titil" : "正义联盟 The Flash 闪电侠",
+        "name" :  "闪电侠",
+         "imgsrc": [
+            {"imgsrc1" : "img/shandianxia01.jpg"},
+            {"imgsrc2" : "img/shandianxia02.jpg"},
+            {"imgsrc3" : "img/shandianxia03.jpg"},
+            {"imgsrc4" : "img/shandianxia04.jpg"},
+            {"imgsrc5" : "img/shandianxia05.jpg"}
+        ],
+        "price" : 13000.00,
+        "num" : 1,
+        "where" : "Hot Toys",
+            "product_msg" : [
+                {"product_code" : "MMS448"},
+                {"product_height" : "约30厘米高"},
+                {"special_skill" : "闪光头盔捕捉EZRA MILLER的面部表情，特别为酒红色和金色装甲板和银色线条量身定制的勃艮第色闪光衣服，4种减淡效果"}
+            ],
+        "introduce" : "在Flash电视剧中获得了巨大的人气，这个角色近年来在全球范围内广泛流行。以他的“超级力量”的超级大国而闻名，该超级大国让闪电难以置信的速度移动并产生闪电，许多粉丝迫不及待地想要在即将到来的电影正义联盟中看到最快的DC漫画超级这一次，布鲁斯韦恩招募到正义联盟，巴里艾伦又名闪电，将与其他最伟大的超级英雄一起战斗，以阻止他们的新反派的根据Ezra Miller在正义联盟中的Flash / Barry Allen的形象，这个人物是精心制作的，具有新开发的头盔造型，精美设计的勃艮第彩色闪光套装，配和金色装甲板和银色线条，配件包括一个巴塔朗，四个闪电效果，以及一个正义联盟主题的数字立场。"
+    },
+    {
+        "titil" : "海贼王 路飞",
+        "name" :  "路飞",
+         "imgsrc": [
+            {"imgsrc1" : "img/lufei01.jpg"},
+            {"imgsrc2" : "img/lufei02.jpg"}
+        ],
+        "price" : 1800.00,
+        "num" : 1,
+        "where" : "万代",
+            "product_msg" : [
+                {"product_code" : "82281"},
+                {"product_height" : "大约30厘米高"},
+                {"special_skill" : "高度详细的头部雕塑，平行眼球滚动系统（PERS），特别定制的服装"}
+            ],
+        "introduce" : "由于他的标志性特征是一顶草帽，因此常被直接称呼为“草帽”。梦想是找到传说中的ONE PIECE，成为海贼王。性格积极乐观，爱憎分明且十分重视伙伴，对任何危险的事物都超感兴趣。看似白痴，却是一个大智若愚型的无愧船长之职的人。和其他传统的海贼所不同的是，他并不会为了追求财富而无故杀戮，而是享受着身为海贼的冒险。"
+    },
+    {
+        "titil" : "海贼王 娜美",
+        "name" :  "娜美",
+         "imgsrc": [
+            {"imgsrc1" : "img/namei01.jpg"},
+            {"imgsrc2" : "img/namei02.jpg"}
+        ],
+        "price" : 1600.00,
+        "num" : 1,
+        "where" : "万代",
+            "product_msg" : [
+                {"product_code" : "82282"},
+                {"product_height" : "大约30厘米高"},
+                {"special_skill" : "高度详细的头部雕塑，平行眼球滚动系统（PERS），特别定制的服装"}
+            ],
+        "introduce" : "拥有橘色的短发（两年后为波浪长发）和左肩的刺青（风车与橘子的图案）。使用棍术，现在武器为“魔法天候棒”。头脑聪明又机灵，象学和航海术，擅长偷术，能用身体感知天气，完美指示航路，是个能精确画出航海图的天才航海士。本质上是个细心、善良、重视感情、嫉恶如仇、偶温柔的能干的女性。最喜欢钱和橘子，梦想是要画出全世界的地图。"
+    },
+    {
+        "titil" : "海贼王 索隆",
+        "name" :  "索隆",
+         "imgsrc": [
+            {"imgsrc1" : "img/suolong01.jpg"},
+            {"imgsrc2" : "img/suolong02.jpg"}
+        ],
+        "price" : 1700.00,
+        "num" : 1,
+        "where" : "万代",
+            "product_msg" : [
+                {"product_code" : "82313"},
+                {"product_height" : "大约30厘米高"},
+                {"special_skill" : "高度详细的头部雕塑，平行眼球滚动系统（PERS），特别定制的服装"}
+            ],
+        "introduce" : "爱喝酒，爱睡觉，讲义气，海贼第一超级大路痴。为了小时候与挚友的约定而踏上了前往世界第一剑士的道路，随后成为路飞出海后遇到的第一个伙伴。在初次败给世界第一剑士“鹰眼米霍克”后向路飞发誓永不再败，并且更加努力的锻炼自己。两年后的他成功与伙伴们汇合，并且为了实现自己的梦想，奔赴强者如云的新世界。"
+    },
+    {
+        "titil" : "海贼王 山治",
+        "name" :  "山治",
+         "imgsrc": [
+            {"imgsrc1" : "img/shanzhi01.jpg"},
+            {"imgsrc2" : "img/shanzhi02.jpg"}
+        ],
+        "price" : 1700.00,
+        "num" : 1,
+        "where" : "万代",
+            "product_msg" : [
+                {"product_code" : "82153"},
+                {"product_height" : "大约30厘米高"},
+                {"special_skill" : "高度详细的头部雕塑，平行眼球滚动系统（PERS），特别定制的服装"}
+            ],
+        "introduce" : "金发，有着卷曲眉毛，永远遮住半边脸的家伙，香烟不离口，最爱女人，很花心但很有风度，海贼中的绅士。小时候跟随大海贼红脚哲普学习厨艺。踢技以快准狠被海军称之为“黑足”。遵守“骑士道精神”，从不愿意伤害任何的女性，哪怕是敌人。梦想是找到传说之海All Blue而跟随路飞一同进入了伟大航路。"
+    },
+    {
+        "titil" : "海贼王 罗宾",
+        "name" :  "罗宾",
+         "imgsrc": [
+            {"imgsrc1" : "img/luobin01.jpg"},
+            {"imgsrc2" : "img/luobin02.jpg"}
+        ],
+        "price" : 1600.00,
+        "num" : 1,
+        "where" : "万代",
+            "product_msg" : [
+                {"product_code" : "82168"},
+                {"product_height" : "大约30厘米高"},
+                {"special_skill" : "高度详细的头部雕塑，平行眼球滚动系统（PERS），特别定制的服装"}
+            ],
+        "introduce" : "年仅8岁就被悬赏千万的奥哈拉幸存者。在巴洛克解散后，加入草帽海贼团。个性冷静，擅长考古学以及暗杀，学识渊博，对于世界政府、海盗、航海一事都知道的很详细。目标是找到真正的历史正文，绝不饶恕践踏历史文物的人。"
+    }
+]

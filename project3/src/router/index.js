@@ -4,6 +4,8 @@ import Classify from "@/page/classify/Classify";
 import Home from "@/page/home/Home";
 import Shoppingcart from "@/page/shoppingcart/Shoppingcart";
 import Me from "@/page/me/Me";
+import personalInfo from "@/page/personalinfo/personalInfo";
+import getAddress from "@/page/address/getAddress";
 import Detail from '@/page/detail/Detail'
 
 Vue.use(Router);
@@ -34,6 +36,16 @@ export default new Router({
             component: Me
         },
         {
+            path: "/personalinfo/",
+            name: "personalInfo",
+            component: personalInfo
+        }, 
+        {
+            path: "/address/",
+            name: "getAddress",
+            component: getAddress
+        },
+		{
             path: '/detail',
             name: 'Detail',
             component: Detail

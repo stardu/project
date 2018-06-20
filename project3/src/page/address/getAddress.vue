@@ -3,33 +3,31 @@
        <ul>
            <li>
                <label>姓名</label>
-               <input type="text" placeholder="请填写您的真实姓名">
+               <input type="text" placeholder="请填写您的真实姓名" v-model="name">
            </li>
             <li>
                <label>联系电话</label>
-               <input type="text" placeholder="请填写我们联系您的电话号码">
+               <input type="text" placeholder="请填写我们联系您的电话号码" v-model="phone">
            </li>
             <li>
                <label>邮政编码</label>
-               <input type="text" placeholder="请填写您所在地区的邮政编码">
+               <input type="text" placeholder="请填写您所在地区的邮政编码" v-model="postalCode">
            </li>
             <li>
-              <select class="province">
-                  <option v-for="(item,index) in province"
+              <select  @change="setProvince" v-model="provinceVal">
+                  <option v-for="item in province"
                   :key="item.id"
-                  @click="setProvince(index)"
                   >{{ item.name }}</option>
               </select>
-               <select class="city">
-                  <option v-for="(itemCity,indexCity) in city"
+               <select @change="setCity" v-model="cityVal">
+                  <option v-for="itemCity in city"
                   :key="itemCity.id"
-                  @click="setCity(indexCity)"
                   >{{ itemCity.name }}</option>
               </select>
-              <select>
-                   <option v-for="(itemArea,indexArea) in area"
+              <select v-model="areaVal">
+                   <option v-for="itemArea in area"
                    :key="itemArea.id"
-                   >{{ itemArea[indexArea] }}</option>
+                   >{{ itemArea }}</option>
                </select>
            </li>
             <li>
@@ -37,7 +35,33 @@
                <input type="text" placeholder="请填写详细的街道、楼道、门牌号">
            </li>
        </ul>
-       <button class="btn btn-success btn-lg">确认地址</button>
+       <!-- 按钮触发模态弹框 -->
+       <button class="btn btn-success btn-lg" data-toggle="modal" data-target="#myModal">确认地址</button>
+       <!-- 模态弹框 -->
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                                &times;
+                            </button>
+                            <h4 class="modal-title" id="myModalLabel">
+                                模态框（Modal）标题
+                            </h4>
+                        </div>
+                        <div class="modal-body">
+                            在这里添加一些文本
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">关闭
+                            </button>
+                            <button type="button" class="btn btn-primary">
+                                提交更改
+                            </button>
+                        </div>
+                    </div><!-- /.modal-content -->
+                </div><!-- /.modal -->
+        </div>
     </div>
 </template>
 
@@ -47,8 +71,17 @@ export default {
     name: "personalInfo",
     data() {
         return {
+            //姓名
+            name:"",
+            //电话号码
+            phone: '',
+            //邮政编码
+            postalCode:'',
             // 省的信息
             province: this.$store.state.province,
+            provinceVal: '北京',
+            cityVal: '北京',
+            areaVal: '朝阳区',
             //市的信息
             city: [],
             //区的信息
@@ -57,25 +90,26 @@ export default {
     },
     methods: {
         // 确定省份
-        setProvince(count){
-            console.log("haha");
-             this.city=this.province[count].city; 
+        setProvince(){
+            var currentProvince = this.province.filter((item) => {
+                return this.provinceVal === item.name;
+            });
+           this.city=currentProvince[0].city;
         },
         //确定市区
-        setCity(count){
-            this.area=this.city[count].area;
+        setCity(){
+           var currentCity = this.city.filter((itemCity) => {
+                return this.cityVal === itemCity.name;
+            })
+           this.area=currentCity[0].area;
         }
     },
     mounted(){
         //获取省份下拉框的对象
-        let objForProvince=document.querySelectorAll(".province option");
-        for (let index = 0; index < objForProvince.length; index++) {
-            objForProvince[index].onclick=()=>{
-                console.log("hha");
-                  this.city=this.province[index].city;
-            }
-            
-        }
+       $("province").on("click","option",function(event){
+           console.log("haha");
+             this.city=this.province[event.target.id].city; 
+       })
     }
 };
 </script>

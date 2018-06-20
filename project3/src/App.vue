@@ -72,7 +72,8 @@ $color:#ddd;
     height:calc(100% - 111px);
     overflow-x: hidden;
     overflow-y: auto;
-    background-color:#eee
+    background-color:#eee;
+    padding: 0;
 }
 header{
     height:50px;
@@ -92,7 +93,6 @@ footer ul{
     margin:0;
     display: flex;
     li{
-        line-height: 60px;
         padding:10px 0;
         width:25%;
         display: list-item;
